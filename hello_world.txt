@@ -1,1 +1,1 @@
-ECHO est  ativado.
+Testing inside this file!
